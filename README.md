@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the Frontend Mentor challenges. Solution URL: [Add solution URL here](https://juaazn.github.io/QR-code-component/)
+This is a solution to the Frontend Mentor challenges. Solution URL: [Add solution URL here]()
 
 ### Screenshot
 
@@ -21,4 +21,5 @@ I learned how to use CSS variables.
 
 - Juan Diego Acosta Liscano
 
-- X - [Mi perfil de X](https://twitter.com/juaazn)
+- X - [Perfil de X](https://twitter.com/juaazn)
+- csc - [Perfil de Linkedin](https://www.linkedin.com/in/juan-diego-acosta-liscano-821ba619a/)
