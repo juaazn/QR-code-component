@@ -22,4 +22,4 @@ I learned how to use CSS variables.
 - Juan Diego Acosta Liscano
 
 - X - [Perfil de X](https://twitter.com/juaazn)
-- csc - [Perfil de Linkedin](https://www.linkedin.com/in/juan-diego-acosta-liscano-821ba619a/)
+- Linkedin - [Perfil de Linkedin](https://www.linkedin.com/in/juan-diego-acosta-liscano-821ba619a/)
