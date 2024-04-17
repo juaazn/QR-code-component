@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the Frontend Mentor challenges. Solution URL: [Add solution URL here]()
+This is a solution to the Frontend Mentor challenges. Solution URL: [QR code component](https://juaazn.github.io/QR-code-component/)
 
 ### Screenshot
 
