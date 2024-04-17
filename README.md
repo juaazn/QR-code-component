@@ -1,29 +1,10 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the Frontend Mentor challenges.
-
-## Table of contents
-
-- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
-  - [Table of contents](#table-of-contents)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-  - [Author](#author)
+This is a solution to the Frontend Mentor challenges. Solution URL: [Add solution URL here](https://juaazn.github.io/QR-code-component/)
 
 ### Screenshot
 
 ![Imagen del componente](./images/codigo-qr.png)
-
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
-### Links
-
-- Solution URL: [Add solution URL here](https://juaazn.github.io/QR-code-component/)
 
 ### Built with
 
